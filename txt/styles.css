@@ -1,0 +1,43 @@
+.sendbtn{
+    font-weight: bold;
+    padding: 10px;
+    color: #FFFFFF;
+    background: #0A8332 ;
+    border-radius: 5px;
+    padding: 5px 15px 5px 15px;
+    border: none;
+    }
+    
+    .selectsend{
+    width: 50px;
+    color: #FFFFFF;
+    background: #0A8332 ;
+    border-radius: 5px;
+    padding: 5px 1px 5px 1px;
+    margin-left: -3px;
+    }
+    
+    label{
+    margin-top: 200px;
+    border: solid 1px #999;
+    border-radius: 5px;
+    padding: 5px 20px 5px 20px;
+    }
+    
+    .txt{
+    width: 80%;
+    margin-left: 5px;
+    padding: 5px 20px 5px 20px;
+    border: none;
+    border-bottom: solid 1px #999999;
+    }
+    
+    .add{
+    border: none}
+    
+    textarea{
+    width: 90%;
+    height: 40%;
+    border: none;
+    border-top: solid 1px #999999;
+    }
